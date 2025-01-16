@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter Framework, Python, Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atharv666?tab=repositories](https://github.com/atharv666?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/atharv666](https://github.com/atharv666)
 
 - 📫 How to reach me **AtharvRaob@gmail.com**
 
